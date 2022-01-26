@@ -1,5 +1,7 @@
 # Discord-Nuke-Bot
-A simple scripts in java that nukes a given server with a given token
+A simple script in java that nukes a given server with a given token
+
+Standalone jar is located in the Jar folder
 
 Run the standalone jar in a terminal with java 8 or above
 
